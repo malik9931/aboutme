@@ -1,0 +1,16 @@
+h1{
+    font-size:xx-large;
+    color: blueviolet;
+    padding: 3px;
+    border: brown;
+}
+
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%
+  }
+
+  p{
+      position;
+  }
