@@ -1,16 +1,43 @@
-h1{
-    font-size:xx-large;
-    color: blueviolet;
-    padding: 3px;
-    border: brown;
+body{
+
+    text-align: center;
 }
 
-.sticky {
-    position: fixed;
-    top: 0;
-    width: 100%
-  }
 
-  p{
-      position;
-  }
+h1{
+    max-width:80%;
+    min-width: 20%;
+    border: 10px solid rgb(224, 191, 119);
+    /* -moz-border-image: url("images/dots.gif") 11 11 11 11 stretch; */
+    padding: 50px;
+    margin: 20px;
+    background-color: cornflowerblue;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    font-size: 500%;
+    
+
+
+}
+
+p{
+    max-width:80%;
+    min-width: 20%;
+    border: medium solid rgb(241, 61, 16);
+    padding: 50px;
+    margin: 20px;
+    background-color: rgb(100, 237, 100);
+    font-size: 200%;
+    margin-left: auto;
+    margin-right: auto
+
+
+
+}
+
+/* 
+img.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto } */
