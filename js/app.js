@@ -9,29 +9,29 @@ var score = 0;
 
 var color = prompt('Do u think that I like a Green color?');
 var color = getValidation(color);
-var color = result(color,'great this is my color','NOOOOOOOOOOO');
+var color = result(color,'great this is my color','NOOOOOOOOO');
 
 //---------------------------
 var drink = prompt('Do u think that I like Tea?');
 var drink = getValidation(drink);
-var drink = result(drink,'I LOVE IT','NOOOOOOOOOOO');
+var drink = result(drink,'I LOVE IT','NOOOOOOOOO');
 
 
 //-------------------------
 
 var swim = prompt('Do u think that I can swim?');
 var swim = getValidation(swim);
-var swim = result(swim,'water is life','NOOOOOOOOOOO');
+var swim = result(swim,'water is life','NOOOOOOOOO');
 
 //----------------------------
 var python = prompt('Do u think that I can programming by python?');
 var python = getValidation(python);
-var python = result(python,'its amazing','NOOOOOOOOOOO');
+var python = result(python,'its amazing','NOOOOOOOOOO');
 
 //----------------------
 var cat = prompt('Do u think that I like cat?');
 var cat = getValidation(cat);
-var cat = result(cat,'Its a qute animal','NOOOOOOOOOOO');
+var cat = result(cat,'Its a qute animal','NOOOOOO');
 
 //the 6th qustion
 
