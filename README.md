@@ -1,19 +1,35 @@
-# aboutme
-This the second lab in code 201
-
-# LAB - 02
 ## “About Me” project
-This is our first exposure to user stories. User stories are a device commonly used in software development to identify what the functionality and design of a product should be by considering the interests and motivations of people with varied multiple points of view. They are presented in the manner of
-
-As a __, I want __, so that __
-
-
 
 ### Author: Malek Al-Rshaidat
 
 ### Links and Resources
-Any Links you used as reference
+
+#### Duckett HTML book
+
+#### Duckett JS book
 
 ### Reflections and Comments
-Consider including the answers to your daily journal and submission questions here
-This is also a good place to reflect on the tools and resources used and learned
+
+#### At (Jan 5) I was learning these points:
+
+1. Falsy & truthy.
+
+2. switch conditional statement and its uses.
+
+3. Array.
+
+4. Loops and their uses.
+
+5. how to convert the prompt result to an integer.
+
+#### At (Jan 6) I was Learning these point:
+
+1. break can come with: while, for, switch.
+
+2. 3 types of function.
+
+3. general and local scopes.
+
+4. pair programming method.
+
+5. Console is an amazing tool.
